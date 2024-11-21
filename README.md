@@ -2,7 +2,7 @@
 
 Apresentação feita para mostrar ao alunos de ensino medio de um instituição publica, sobre a parte de analise de dados
 
-##Intuito
+**##Intuito**
 
 Mostrar um pouco sobre a introdução a aréa de analise de dados. 
 - O que é
@@ -12,6 +12,6 @@ Mostrar um pouco sobre a introdução a aréa de analise de dados.
 - Exemplos pratico
 - Curiosidade
 
-##Objetivo
+**##Objetivo**
 
 Fazer eles conhecerem um pouco sobre a area, sua importancia e como ela pode influir nossas vidas no dia a dia.
